@@ -1,21 +1,91 @@
 # 👋 Welcome to My GitHub
 
-## 📌 About Me
+# 👩‍💻 Hi, I'm Amita!
 
-With over **16 years of experience** in the field of Data Science and Big Data Engineering, I bring deep expertise in solving real-world business problems using scalable and efficient technologies. I am now looking to expand my career into **freelance opportunities**, contributing to diverse projects across industries.
+🚀 Engineering Manager | Data Scientist | AI/ML & Gen AI Enthusiast  
+📍 Mumbai, India  
+💡 Passionate about building scalable AI solutions & exploring IoT + Generative AI
 
-## 💼 What I Bring to the Table
+---
 
-- ✅ **Python Expert** with experience in writing robust, clean, and production-grade code  
-- ✅ Proficient in **Big Data Ecosystem**:  
-  - Hadoop  
-  - Apache Spark  
-  - Hive  
-  - Impala  
-- ✅ Strong foundation in **Machine Learning** and **Deep Learning** techniques  
-- ✅ Hands-on experience with **Google BERT** and NLP-based solutions  
-- ✅ Ability to quickly understand and implement technical research problems
+## 🔥 About Me
 
+- 💼 Engineering Manager at **Virtusa Pvt. Ltd.**
+- 🧠 16+ years of experience in Data Science, AI/ML & Big Data
+- ⚙️ Expertise in productionalizing AI/ML applications at scale
+- 🌱 Currently exploring **Generative AI** and **IoT systems**
+- 🤝 Strong believer in collaboration, innovation, and continuous learning
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Impala](https://img.shields.io/badge/Impala-1B72BE?style=for-the-badge&logo=apache&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+
+### 🤖 AI / ML / DL
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=for-the-badge)
+![LSTM](https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FF4088?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-00A67E?style=for-the-badge)
+
+### ⚡ Emerging Tech
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge)
+![IoT](https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge)
+
+### 🔄 DevOps & Workflow
+![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![Big Data](https://img.shields.io/badge/Big%20Data-FF9900?style=for-the-badge)
+
+---
+
+## 📌 Professional Summary
+
+- Currently serving as an Engineering Manager at Virtusa Pvt. Ltd., Mumbai, leading the deployment of Machine Learning and Deep Learning solutions in production environments using Spark, Hadoop, Impala, and CI/CD pipelines.
+
+- Proven expertise in end-to-end productionalization of AI/ML applications, ensuring scalability, reliability, and seamless integration into enterprise systems.
+
+- Skilled in traditional Machine Learning techniques, advanced Deep Learning models such as LSTMs, and text classification & sentiment analysis using Google BERT.
+
+- Extensive experience with PySpark on large-scale clusters for data processing, ensuring data readiness for model development, along with strong proficiency in data storage solutions like Impala and Hive.
+
+- Continuously upskilling in emerging technologies, including Generative AI (Gen AI) and IoT, to stay aligned with evolving industry trends.
+
+- Experience in developing end-to-end, enterprise-grade ML applications with a strong emphasis on integrating Data Engineering practices.
+
+- Hands-on experience with Hadoop and Big Data ecosystems, including MapReduce programming.
+
+- Strong background in Python development, including automation, scripting, and building scalable software solutions.
+
+- Experienced in gathering client requirements and collaborating with cross-functional teams to support data delivery for dashboards and enhance UI data presentation.
+
+- Passionate about innovation, delivering impactful results, and leveraging technology to solve complex business problems.
+
+- Strong communication and collaboration skills with a proven ability to work effectively in team environments.
+
+---
+
+## 📊 GitHub Stats
+
+![Amita's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/)
+
+---
+
+⭐ *“Building intelligent systems that create real-world impact.”*
 ## 🎓 Academic Freelance Work
 
 Since **2019**, I’ve been successfully working with **Engineering** and **Ph.D.** candidates in Computer Engineering and Data Science domains. I’ve helped implement:
@@ -24,15 +94,7 @@ Since **2019**, I’ve been successfully working with **Engineering** and **Ph.D
 - Algorithms and model training for theses/dissertations
 - Deployment-ready code for academic submissions
 
-## 🚀 Open to Freelance Work
 
-I’m ready to take up freelance roles, including:
-- Small freelance tasks and PoCs  
-- Bug fixes and enhancements in existing codebases  
-- Model development and optimization  
-- Technical mentorship or consultation for academic projects
-
-I am confident that my experience and skill set make me a reliable partner for your next freelance assignment.
 
 ## 📂 Coming Soon on GitHub
 
