@@ -2,7 +2,7 @@
 
 # 👩‍💻 Hi, I'm Amita!
 
-🚀 Engineering Manager | Data Scientist | AI/ML & Gen AI Enthusiast  
+🚀 Data Scientist | AI/ML & Gen AI Enthusiast  
 📍 Mumbai, India  
 💡 Passionate about building scalable AI solutions & exploring IoT + Generative AI
 
@@ -10,7 +10,6 @@
 
 ## 🔥 About Me
 
-- 💼 Engineering Manager at **Virtusa Pvt. Ltd.**
 - 🧠 16+ years of experience in Data Science, AI/ML & Big Data
 - ⚙️ Expertise in productionalizing AI/ML applications at scale
 - 🌱 Currently exploring **Generative AI** and **IoT systems**
@@ -46,7 +45,7 @@
 
 ## 📌 Professional Summary
 
-- Currently serving as an Engineering Manager at Virtusa Pvt. Ltd., Mumbai, leading the deployment of Machine Learning and Deep Learning solutions in production environments using Spark, Hadoop, Impala, and CI/CD pipelines.
+- Deploying Machine Learning and Deep Learning solutions into production using Spark, Hadoop, Impala, and CI/CD pipelines.
 
 - Proven expertise in end-to-end productionalization of AI/ML applications, ensuring scalability, reliability, and seamless integration into enterprise systems.
 
