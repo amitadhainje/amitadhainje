@@ -69,6 +69,9 @@
 
 ---
 
+## 🚀 Featured Project: Stock Screener (NSE India)
+
+A full-stack stock screening platform for the Indian equity market that tracks the Nifty 500 and F&O universe. It computes technical signals (Bollinger Bands, SMA crossovers, RSI, relative alpha) across hourly, 4-hour, daily and weekly timeframes through scheduled data pipelines, and adds an F&O open-interest screener with buildup detection and alerts, along with chart-pattern detection. Built with **FastAPI**, **React**, **PostgreSQL** and **APScheduler**, it uses live market data from Zerodha Kite Connect, is deployed on Railway and Vercel, and is validated by a custom 4-way data-accuracy testing framework built on pytest and Playwright.
 
 ---
 
