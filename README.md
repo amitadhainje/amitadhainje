@@ -91,17 +91,6 @@ Since **2019**, I’ve been successfully working with **Engineering** and **Ph.D
 - Algorithms and model training for theses/dissertations
 - Deployment-ready code for academic submissions
 
-
-
-## 📂 Coming Soon on GitHub
-
-I’ll be uploading:
-- Sample academic project implementations  
-- Machine learning and deep learning project repositories  
-- Utilities, scripts, and tools for big data workflows  
-
-Stay tuned!
-
 ---
 
 📫 **Let’s Connect**  
